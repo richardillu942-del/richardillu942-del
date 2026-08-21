@@ -30,16 +30,13 @@ Ketertarikan utama saya ada di dunia *frontend development* dan desain antarmuka
 
 ---
 
-### 📊 GitHub Analytics
+### ⚡ Quick Highlights
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richardillu942-del&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030303&icon_color=00f3ff&text_color=f3f3f3" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardillu942-del&layout=compact&theme=tokyonight&hide_border=true&bg_color=030303&text_color=f3f3f3" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richardillu942-del&theme=tokyonight&hide_border=true&background=030303" alt="GitHub Streak" />
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/Primary_Focus-Frontend_%26_UI_Design-00f3ff?style=flat-square&logo=visualstudiocode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Animation_Engine-GSAP_%2F_JavaScript-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Current_Status-Open_for_Web_Projects-green?style=flat-square" />
+</p>
 
 ---
 
