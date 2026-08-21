@@ -42,5 +42,5 @@ My primary passion lies in *frontend development* and user interface design. For
 
 ### 📫 Let's Connect
 
-* 🌐 **Live Portfolio:** [rchporto.vercel.app](https://rchporto.vercel.app/)
+* 🌐 **Portfolio:** [rchporto.vercel.app](https://rchporto.vercel.app/)
 * 📂 **GitHub Profile:** [@richardillu942-del](https://github.com/richardillu942-del)
