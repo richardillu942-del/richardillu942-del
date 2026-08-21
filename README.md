@@ -9,9 +9,9 @@
 ---
 
 ### 💻 About Me
-Gue **Richard Wicliv Illu**, seorang pelajar kelas XI Rekayasa Perangkat Lunak (RPA) di **SMK PGRI 3 Malang**. 
+Aku**Richard Wicliv Illu**, Siswa Jurusan Rekayasa Perangkat Lunak (RPA) di **SMK PGRI 3 Malang**. 
 
-Ketertarikan utama gue ada di dunia *frontend development* dan desain antarmuka. Buat gue, ngoding itu bukan sekadar nulis baris perintah yang penting jalan, tapi gimana caranya bikin tampilan web yang interaktif, mulus, dan enak dilihat. Gue suka bereksperimen dengan animasi web, transisi halus, dan detail kecil yang bikin sebuah website terasa hidup.
+Ketertarikan utama aku ada di dunia *frontend development* dan desain antarmuka. Buat ku, ngoding itu bukan sekadar nulis baris perintah yang penting jalan, tapi gimana caranya bikin tampilan web yang interaktif, mulus, dan enak dilihat. Aku suka bereksperimen dengan animasi web, transisi halus, dan detail kecil yang bikin sebuah website terasa hidup.
 
 * 🔭 Lagi sibuk eksplorasi animasi web pakai **GSAP** dan memperdalam *JavaScript*.
 * 🎨 Suka nge-blend antara logika kode dengan estetika visual.
@@ -44,4 +44,3 @@ Ketertarikan utama gue ada di dunia *frontend development* dan desain antarmuka.
 
 ### 📫 Let's Connect
 * **Portofolio Live:** [rchporto.vercel.app](https://rchporto.vercel.app/)
-* **Instagram / Lainnya:** *(Bisa kamu tambahin sendiri kalau mau)*
