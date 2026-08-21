@@ -1,16 +1,47 @@
-## Hi there 👋
+### Hi there, I'm Richard 👋
 
-<!--
-**richardillu942-del/richardillu942-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Exploring%20Frontend%20&%20UI-00f3ff?style=flat-square&logo=appveyor&logoColor=black" />
+  <img src="https://img.shields.io/badge/School-SMK%20PGRI%203%20Malang-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Interactive%20Web-orange?style=flat-square" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+Gue **Richard Wicliv Illu**, seorang pelajar kelas XI Rekayasa Perangkat Lunak (RPA) di **SMK PGRI 3 Malang**. 
+
+Ketertarikan utama gue ada di dunia *frontend development* dan desain antarmuka. Buat gue, ngoding itu bukan sekadar nulis baris perintah yang penting jalan, tapi gimana caranya bikin tampilan web yang interaktif, mulus, dan enak dilihat. Gue suka bereksperimen dengan animasi web, transisi halus, dan detail kecil yang bikin sebuah website terasa hidup.
+
+* 🔭 Lagi sibuk eksplorasi animasi web pakai **GSAP** dan memperdalam *JavaScript*.
+* 🎨 Suka nge-blend antara logika kode dengan estetika visual.
+* ☕ Tetap nyambung sama *backend* (PHP/Laravel & Java) buat paham alur sistem secara utuh.
+
+---
+
+### 🛠️ Tech Stack
+
+* **Frontend & Core:** `HTML5`, `CSS3`, `JavaScript`
+* **Styling & Framework:** `Tailwind CSS`, `Bootstrap`
+* **Animation & Tools:** `GSAP`, `Git`, `GitHub`
+* **Backend (Supporting):** `PHP`, `Laravel`, `Java`, `MySQL`
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=richardillu942-del&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030303" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardillu942-del&layout=compact&theme=tokyonight&hide_border=true&bg_color=030303" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richardillu942-del&theme=tokyonight&hide_border=true&background=030303" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📫 Let's Connect
+* **Portofolio Live:** [rchporto.vercel.app](https://rchporto.vercel.app/)
+* **Instagram / Lainnya:** *(Bisa kamu tambahin sendiri kalau mau)*
