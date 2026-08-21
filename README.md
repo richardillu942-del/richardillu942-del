@@ -3,22 +3,22 @@
   <p><em>Creative Frontend Developer & UI Enthusiast based in Malang.</em></p>
   
   <p>
-    <img src="https://img.shields.io/badge/Status-Exploring%20Frontend%20&%20UI-00f3ff?style=for-the-badge&logoColor=black" />
+    <img src="https://img.shields.io/badge/Status-Exploring%20Frontend%20%26%20UI-00f3ff?style=for-the-badge&logoColor=black" />
     <img src="https://img.shields.io/badge/School-SMK%20PGRI%203%20Malang-7c3aed?style=for-the-badge" />
   </p>
 </div>
 
 ---
 
-### 💻 Tentang Saya
+### 💻 About Me
 
-Saya **Richard Wicliv Illu**, pelajar kelas XI Rekayasa Perangkat Lunak (RPA) di **SMK PGRI 3 Malang**. 
+I am **Richard Wicliv Illu**, an 11th-grade Software Engineering student (XI-RPA) at **SMK PGRI 3 Malang**. 
 
-Ketertarikan utama saya ada di dunia *frontend development* dan desain antarmuka. Bagi saya, ngoding itu bukan sekadar menulis baris perintah yang penting berjalan, tapi bagaimana caranya merancang tampilan web yang interaktif, mulus, dan nyaman dipandang. Saya sangat suka bereksperimen dengan animasi web, transisi halus, dan detail kecil yang membuat sebuah website terasa hidup.
+My primary passion lies in *frontend development* and user interface design. For me, coding is not just about writing syntax that works, but how to craft interactive, smooth, and visually appealing web experiences. I love experimenting with web animations, seamless transitions, and fine micro-interactions that make a website feel alive.
 
-* 🔭 Sedang sibuk mengeksplorasi animasi web menggunakan **GSAP** dan memperdalam kemampuan *JavaScript*.
-* 🎨 Senang memadukan logika kode yang solid dengan estetika visual yang menarik.
-* ☕ Tetap terhubung dengan dunia *backend* (PHP/Laravel & Java) agar memahami alur sistem secara utuh dari ujung ke ujung.
+* 🔭 Currently exploring web animations using **GSAP** and leveling up my **JavaScript** skills.
+* 🎨 Passionate about blending solid code logic with compelling visual aesthetics.
+* ☕ Keeping up with **backend** fundamentals (PHP/Laravel & Java) to understand end-to-end system workflows.
 
 ---
 
@@ -40,7 +40,7 @@ Ketertarikan utama saya ada di dunia *frontend development* dan desain antarmuka
 
 ---
 
-### 📫 Mari Terhubung
+### 📫 Let's Connect
 
-* 🌐 **Portofolio Live:** [rchporto.vercel.app](https://rchporto.vercel.app/)
+* 🌐 **Live Portfolio:** [rchporto.vercel.app](https://rchporto.vercel.app/)
 * 📂 **GitHub Profile:** [@richardillu942-del](https://github.com/richardillu942-del)
