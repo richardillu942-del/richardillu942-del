@@ -1,46 +1,40 @@
-<div align="center">
-  <h1>Hi there, I'm Richard <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-  <p><em>Creative Frontend Developer & UI Enthusiast based in Malang.</em></p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Status-Exploring%20Frontend%20%26%20UI-00f3ff?style=for-the-badge&logoColor=black" />
-    <img src="https://img.shields.io/badge/School-SMK%20PGRI%203%20Malang-7c3aed?style=for-the-badge" />
-  </p>
-</div>
+# Richard Wicliv Illu
 
----
+**Software Engineering Student · Frontend Development Enthusiast**
 
-### 💻 About Me
+Hi! I'm Richard, an 11th-grade Software Engineering student at SMK PGRI 3 Malang, Indonesia.
 
-I am **Richard Wicliv Illu**, an 11th-grade Software Engineering student (XI-RPA) at **SMK PGRI 3 Malang**. 
+I started learning web development through school assignments. Over time, I became interested in building websites and exploring how different technologies work together.
 
-My primary passion lies in *frontend development* and user interface design. For me, coding is not just about writing syntax that works, but how to craft interactive, smooth, and visually appealing web experiences. I love experimenting with web animations, seamless transitions, and fine micro-interactions that make a website feel alive.
+I enjoy trying new things, working on small projects, and improving my skills through practice.
 
-* 🔭 Currently exploring web animations using **GSAP** and leveling up my **JavaScript** skills.
-* 🎨 Passionate about blending solid code logic with compelling visual aesthetics.
-* ☕ Keeping up with **backend** fundamentals (PHP/Laravel & Java) to understand end-to-end system workflows.
+### About Me
 
----
+- Currently studying Software Engineering (RPL).
+- Interested in web development and website design.
+- Enjoy experimenting with web animations and interactions.
+- Open to feedback, collaboration, and learning from others.
+- Outside coding, I enjoy playing guitar and exploring music.
 
-### 🛠️ Tech Stack & Tools
+### Technologies & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,php,laravel,java,mysql,git,github,vscode&perline=6" />
+**Currently Exploring**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,php,laravel,gsap,git,github,vscode" />
 </p>
 
+### Projects
+
+I use my projects as a way to practice, experiment, and apply what I learn.
+
+Check out some of my work on my [portfolio website](https://rchporto.vercel.app/).
+
+### Find Me
+
+- Portfolio: [rchporto.vercel.app](https://rchporto.vercel.app/)
+- GitHub: [@richardillu942-del](https://github.com/richardillu942-del)
+
 ---
 
-### ⚡ Quick Highlights
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Primary_Focus-Frontend_%26_UI_Design-00f3ff?style=flat-square&logo=visualstudiocode&logoColor=black" />
-  <img src="https://img.shields.io/badge/Animation_Engine-GSAP_%2F_JavaScript-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Current_Status-Open_for_Web_Projects-green?style=flat-square" />
-</p>
-
----
-
-### 📫 Let's Connect
-
-* 🌐 **Portfolio:** [rchporto.vercel.app](https://rchporto.vercel.app/)
-* 📂 **GitHub Profile:** [@richardillu942-del](https://github.com/richardillu942-del)
+*Learning by building, one project at a time.*
